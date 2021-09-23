@@ -18,3 +18,10 @@ The screenshot below shows students collecting grades to graduate.
 
 The next screenshot shows the graduation ceremony at the end of the animation.
 ![alt text](./graduation.png)
+
+
+In order to run the animation:
+
+`javac NURunner.java`
+
+`java NURunner`
