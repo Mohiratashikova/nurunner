@@ -14,7 +14,7 @@ The gif below shows students collecting grades to graduate and professors creati
 * Green, blue and red shapes represent assignments with weights written on them
 * Professors are represented with their corresponding pictures, names and motion states
 
-![alt text](./studying.jpg)
+![alt text](./studying.gif)
 
 The next screenshot shows the graduation ceremony at the end of the animation.
 ![alt text](./graduation.png)
